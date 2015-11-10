@@ -1,0 +1,10 @@
+{
+  "appId": "africalooks",
+  "apiKey": "4eda0a643060f4f262ada583957a3a849e20db1288166f76f73680431e233afe",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

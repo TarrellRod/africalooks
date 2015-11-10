@@ -1,0 +1,18 @@
+{
+  "name": "africalooks",
+  "homepage": "https://github.com/TarrellRod/africalooks",
+  "authors": [
+    "Tarrell Rodrigues <tarrellrodrigues@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
